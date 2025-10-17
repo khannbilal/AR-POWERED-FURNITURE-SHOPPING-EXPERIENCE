@@ -54,7 +54,7 @@ Description: A curated collection of 150+ high-fidelity 3D models representing d
  Rendering Latency (FPS consistency).
  Post purchase Return Rate (real-world evaluation metric).
 
- 6. Project Architecture Diagram (Textual)
+# Project Architecture Diagram (Textual)
 
         ┌────────────────────────┐
         │ 3D Furniture Dataset    │
